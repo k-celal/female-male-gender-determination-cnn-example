@@ -8,4 +8,4 @@ This project provides an example of a Convolutional Neural Network (CNN) for gen
 - Data: The data is located in the "data" folder.
 - Code: The code is inside the file named "main.py".
 
-</Good coding with MuyuX :smiley:>
+</Good coding with MuyuX 👨‍💻>
